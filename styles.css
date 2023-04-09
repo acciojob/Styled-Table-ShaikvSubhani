@@ -1,1 +1,30 @@
 /* your code */
+table{
+	border-collapse:collapse;
+}
+td{
+	padding:10px 20px;
+}
+th{
+	background-color:rgb(33,90,142);
+	padding:10px 20px;
+	color:white;
+}
+
+table tr:nth-child(even)
+{
+	background-color:rgb(221,221,221);
+}
+/* .main{
+	color: white;
+	background-color: rgb(33,90,142);
+	
+} */
+
+/* .second{
+	background-color:rgb(221,221,221);
+}
+
+.fourth{
+	background-color:rgb(221,221,221);
+} */
